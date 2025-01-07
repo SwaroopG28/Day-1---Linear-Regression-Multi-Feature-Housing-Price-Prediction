@@ -1,6 +1,6 @@
 # Day-1 Linear-Regression-Multi-Feature-Housing-Price-Prediction
 
-## 📊 **Project Overview**
+## **Project Overview**
 - Predict housing prices using the **California Housing Dataset**.
 - Implement **Linear Regression**, **Ridge Regression**, and **Lasso Regression**.
 - Optimize models using **GridSearchCV** for hyperparameter tuning.
@@ -8,7 +8,7 @@
 
 ---
 
-## 📚 **Dataset**
+## **Dataset**
 - **Source:** `fetch_california_housing` from Scikit-learn.
 - **Features:**
    - `MedInc`: Median income in the area.
@@ -23,7 +23,7 @@
 
 ---
 
-## ⚙️ **Technologies Used**
+##  **Technologies Used**
 - **Programming Language:** Python
 - **Libraries:**
    - `pandas` – Data manipulation and analysis.
@@ -34,7 +34,7 @@
 
 ---
 
-## 🛠️ **Project Workflow**
+##  **Project Workflow**
 
 ### **1. Exploratory Data Analysis (EDA)**
 - Checked for **missing values**.
